@@ -22,6 +22,6 @@
 
 ---
 
-- My solutions, may not be optimal always, but are coded to the best of my understanding.
+- These are primarily self-solved and practiced solutions, may not be optimal always, but are coded to the best of my understanding.
 - Contributions (optimizations, new problems) are welcome!
 - May upload study material I come across , if found useful.
