@@ -1,6 +1,6 @@
-package Day4;
 // This is the Day - 4 of the GCR Problems. Merge Overlapping Intervals in an array.
 
+package Day4;
 import java.util.*;
 
 class Solution {
