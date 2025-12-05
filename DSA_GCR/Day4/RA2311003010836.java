@@ -1,9 +1,9 @@
-package Day4;
 // This is the Day - 4 of the GCR Problems. Merge Overlapping Intervals in an array.
 
+package Day4;
 import java.util.*;
 
-class Solution {
+class MergeOverlappingIntervals {
     public int[][] merge(int[][] intervals) {
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
         int k = 0;
@@ -16,5 +16,18 @@ class Solution {
             }
         }
         return Arrays.copyOfRange(intervals, 0, k + 1);
+    }
+}
+
+public class RA2311003010836 {
+    public static void main(String[] args) {
+        MergeOverlappingIntervals solution = new MergeOverlappingIntervals();
+        int[][] intervals = { { 1, 3 }, { 2, 4 }, { 5, 7 }, { 6, 8 } };
+        int[][] mergedIntervals = solution.merge(intervals);
+
+        System.out.println("Merged Intervals:");
+        for (int[] interval : mergedIntervals) {
+            System.out.println(Arrays.toString(interval));
+        }
     }
 }
