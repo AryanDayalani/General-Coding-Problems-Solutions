@@ -1,5 +1,7 @@
 // 2nd December 2025 - Java program to find the maximum profit from stock prices
 
+package DSA_GCR.Week1.Day1;
+
 class ProfitCalculator {
     public int maximumProfit(int[] prices) {
         int buy_day = 0;

@@ -5,6 +5,34 @@
       "type": "java",
       "name": "RA2311003010836",
       "request": "launch",
+      "mainClass": "DSA_GCR.Week3.Day1.RA2311003010836",
+      "projectName": "General-Coding-Problems-Solutions_43017ed0"
+    },
+    {
+      "type": "java",
+      "name": "CycleDetection",
+      "request": "launch",
+      "mainClass": "CycleDetection",
+      "projectName": "General-Coding-Problems-Solutions_43017ed0"
+    },
+    {
+      "type": "java",
+      "name": "RA2311003010836",
+      "request": "launch",
+      "mainClass": "DSA_GCR.Week2.Day5.RA2311003010836",
+      "projectName": "General-Coding-Problems-Solutions_43017ed0"
+    },
+    {
+      "type": "java",
+      "name": "RA2311003010836",
+      "request": "launch",
+      "mainClass": "DSA_GCR.Week2.Day4.RA2311003010836",
+      "projectName": "General-Coding-Problems-Solutions_43017ed0"
+    },
+    {
+      "type": "java",
+      "name": "RA2311003010836",
+      "request": "launch",
       "mainClass": "DSA_GCR.Week2.Day3.RA2311003010836",
       "projectName": "General-Coding-Problems-Solutions_43017ed0"
     },

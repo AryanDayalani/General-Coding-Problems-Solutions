@@ -1,5 +1,7 @@
 // This is day 2 of the GCR DSA problems homework. Maximum Volume of Water that can be trapped between bars.
 
+package DSA_GCR.Week1.Day2;
+
 class Maximum {
     public int maxVolume(int[] heights) {
         int max_volume = 0;
