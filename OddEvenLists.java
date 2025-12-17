@@ -1,3 +1,6 @@
+// Mariappan Sir problem - Partitioning a linked list into odd and even lists
+
+
 class ListNode {
     int val;
     ListNode next;
@@ -55,6 +58,7 @@ public class OddEvenLists {
         head.next.next.next = new ListNode(2);
         head.next.next.next.next = new ListNode(5);
         head.next.next.next.next.next = new ListNode(2);
+
 
         ListNode partitionedHead = pl.partition(head);
 
