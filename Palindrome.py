@@ -1,5 +1,5 @@
 word = input()
-original_word = word  # Keep original string
+original_word = word  # Keep original string for comparison
 word = list(word)     # Convert to list for reversal
 
 start = 0
