@@ -1,3 +1,5 @@
+// Kadane's Algorithm to find the maximum subarray sum
+
 public class Kadane {
     public static int kadaneAlgorithm(int[] nums) {
         int maximum_sum = Integer.MIN_VALUE;
