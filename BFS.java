@@ -1,4 +1,4 @@
-// Java implementation of BFS algorithm
+// Java implementation of BFS algorithm using Queue
 
 import java.util.*;
 
