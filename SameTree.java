@@ -1,3 +1,5 @@
+// Checking if 2 trees are same
+
 class TreeNode {
      int val;
      TreeNode left;
