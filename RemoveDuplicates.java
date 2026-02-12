@@ -1,4 +1,4 @@
-// Remove Duplicates from Sorted List
+// Remove Duplicates from Sorted List - Direct Approach
 
 class ListNode {
     int val;
