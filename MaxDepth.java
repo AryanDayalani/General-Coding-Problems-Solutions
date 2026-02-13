@@ -1,4 +1,4 @@
-// Find max depth of binary tree
+// Finding the max depth of binary tree
 
 // Definition for a binary tree node.
 class TreeNode {
