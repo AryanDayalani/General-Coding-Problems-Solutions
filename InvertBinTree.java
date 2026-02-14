@@ -1,4 +1,4 @@
-// Invert a Binary Tree
+// Inverting a Binary Tree
 
 // Definition for a binary tree node.
 class TreeNode {
