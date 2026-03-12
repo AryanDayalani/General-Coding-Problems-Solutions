@@ -1,5 +1,4 @@
 // Java implementation of Word Search problem
-import java.util.*;
 
 class WordSearcher {
     public boolean exist(char[][] board, String word) {
