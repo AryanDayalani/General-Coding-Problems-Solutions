@@ -1,3 +1,5 @@
+// Code to check if the parenthesis are balanced and valid
+
 package STEP;
 
 import java.util.*;
