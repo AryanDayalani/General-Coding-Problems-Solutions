@@ -1,5 +1,4 @@
 // Leetcode problem 547 that finds the number of provinces (group of directly/indirectly connected cities)
-import java.util.*;
 
 
 class FindProvince {
