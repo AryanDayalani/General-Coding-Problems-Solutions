@@ -40,6 +40,6 @@ public class PreorderTraversal {
 
         Preorder solver = new Preorder();
         List<Integer> result = solver.preorderTraversal(root);
-        System.out.println("Inorder traversal: " + result);
+        System.out.println("Preorder traversal: " + result);
     }
 }
